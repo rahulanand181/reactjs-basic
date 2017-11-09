@@ -1,6 +1,7 @@
 # ReactJS Basics
 
-This repository accompanies my ReactJS - Basics YouTube Series.
+This repository contains basics of react js
 
 # Usage
-Switch to the branch you're interested in (branches = different stages in the series) and compare/ download the source code.
+This repository can be used to start react js project using webpack devserver
+Webpack+Babel
